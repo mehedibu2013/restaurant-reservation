@@ -1,5 +1,3 @@
-Sure! Here's a **well-formatted README.md** file based on the content you provided. You can copy and paste this directly into your GitHub repository’s `README.md` file.
-
 ---
 
 # 🍽️ Restaurant Reservation System
@@ -135,14 +133,6 @@ Go to `/reservations` to see all bookings in a table.
 
 ---
 
-## 📷 Screenshots
-
-*(You can add screenshots here by uploading images to your repo and linking them like this)*
-
-![Booking Form Screenshot](screenshots/booking-form.png)  
-![Reservations Table Screenshot](screenshots/reservations-table.png)
-
----
 
 ## 📝 Notes
 
